@@ -18,6 +18,3 @@ The program displays the generated Mandelbrot fractal using the matplotlib libra
 
 ## Status
 Project is: _completed_
-
-## Contact
-Created by k.qaletka@gmail.com
